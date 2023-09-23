@@ -1,2 +1,2 @@
-# yahtzee-cpp
-This repository is mainly practice cpp code
+# Yatziigame
+Yatzii is a dice game similiar to Yahtzee.
